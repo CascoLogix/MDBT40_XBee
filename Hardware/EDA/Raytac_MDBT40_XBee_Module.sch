@@ -45,7 +45,7 @@ LIBS:Terminal_Block
 LIBS:Test_Point
 LIBS:TI_Luminary
 LIBS:TI_MSP430
-LIBS:RedBear_BLE_Nano_XBee_Module-cache
+LIBS:Raytac_MDBT40_XBee_Module-cache
 EELAYER 25 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -78,9 +78,9 @@ Text GLabel 4125 6750 0    40   Output ~ 0
 RXD_HEADER
 Text GLabel 4125 6650 0    40   Input ~ 0
 TXD_HEADER
-Text GLabel 5675 6950 2    40   Input ~ 0
+Text GLabel 5675 7350 2    40   Input ~ 0
 CTS_HEADER
-Text GLabel 5675 7350 2    40   Output ~ 0
+Text GLabel 5675 6950 2    40   Output ~ 0
 RTS_HEADER
 NoConn ~ 5575 7150
 $Comp

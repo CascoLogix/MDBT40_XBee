@@ -3,9 +3,9 @@
   (general
     (links 66)
     (no_connects 0)
-    (area 98.809499 80.309499 123.590501 105.190501)
+    (area 98.458172 80.309499 125.541829 110.7748)
     (thickness 1.6002)
-    (drawings 10)
+    (drawings 11)
     (tracks 323)
     (zones 0)
     (modules 29)
@@ -1005,6 +1005,9 @@
       (net 55 /RTS) (solder_mask_margin 0.254))
   )
 
+  (gr_text "Need to swap CTS/RTS" (at 112 109.2) (layer Cmts.User)
+    (effects (font (size 2.032 1.524) (thickness 0.3048)))
+  )
   (gr_text Link (at 118.9 102.8) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )
