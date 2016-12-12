@@ -1,4 +1,4 @@
-update=4/7/2016 8:42:49 PM
+update=12/11/2016 9:50:07 PM
 version=1
 last_client=kicad
 [cvpcb]
@@ -64,7 +64,7 @@ LibName26=C:/Engineering/KiCAD_Libraries/PCB/Test_Point
 LibName27=C:/Engineering/KiCAD_Libraries/PCB/Wire_to_Board
 [eeschema]
 version=1
-LibDir=
+LibDir=C:/Engineering/KiCAD_Libraries/Schematic
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -112,10 +112,13 @@ LibName43=C:/Engineering/KiCAD_Libraries/Schematic/Terminal_Block
 LibName44=C:/Engineering/KiCAD_Libraries/Schematic/Test_Point
 LibName45=C:/Engineering/KiCAD_Libraries/Schematic/TI_Luminary
 LibName46=C:/Engineering/KiCAD_Libraries/Schematic/TI_MSP430
+LibName47=C:/Engineering/KiCAD_Libraries/Schematic/CascoLogixLogo
+LibName48=C:/Engineering/KiCAD_Libraries/Schematic/Mounting_Hole
+LibName49=C:/Engineering/KiCAD_Libraries/Schematic/Transducer
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=Z:/Engineering/Projects/Bluetooth_LE/RedBear_BLE_Nano_XBee_Module/Hardware/Drawing/
+PlotDirectoryName=Z:/Engineering/Projects/XBee/MDBT40_XBee/Hardware/Drawing/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
